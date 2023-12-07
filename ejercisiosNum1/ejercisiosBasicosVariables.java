@@ -58,6 +58,54 @@ public class EjercisiosNum1 {
         //  j) Variable tipo byte: valor
 //        byte valor = 9;
 //                    System.out.println(valor);
-    }
+        // k) Variables lógicas: primero, ultimo
+//        boolean primero = true
+//        boolean ultimo = false
+//        System.out.printin(primero);
+//        System.out.printin(ultimo);
+
+        // l) Variable de tipo cadena de caracteres: nombre
+//          String nombre = "maria palito hernandez";
+//          System.out.printin(nombre);     
+//Ejercicio 2: Escribe la declaración más apropiada para cada una de las siguientes variables. El nombre de cada una indica el tipo de dato que contendrá y servirá para determinar el tipo de dato más adecuado en la declaración de la variable.
+        // a) edad        
+//              int edad = 32;
+//              System.out.printin(edad);                                        
+        // b) códigoPostal
+//                 int codigoPostal = 68001;
+//                 System.out.printin(codigoPostal);
+        // c) altura        
+//                float altura = 1.67f;
+//                System.out.printin(altura);
+        // d) genero (valores: H: hombre, M: mujer)    
+//                       char genero = 'M, F';
+//                       System.out.printin(genero);
+        // e) nombre   
+//                String nombre = "jaider steeven mendoza"
+//                System.out.printin(nombre);                                           
+        // f) númeroDeHijos
+//                int numeroHijos = 8;
+//                System.out.printin(numeroHijos)
+        // g) iva (valores: % a aplicar)   
+//                double iva = 5000;
+//                double valorProducto = 10000;
+//                System.out.printIn(iva / valorProducto);                       
+        // h) tallaCamisa (valores numéricos)
+//                int tallaCamisa = 17;
+//                System.out.printin(tallaCamisa);
+        // i) peso   
+                                                             
+        // j) precio 
+        //k) alumnoRepetidor  (valores: SI/NO)                   
+        // l) mensaje
+        // m) letra                                               
+        // n) mayorEdad                                               
+        // o) minutos                                             
+        // p) días
+        // q) matriculaCoche                                      
+        // r) contador
+        // s) mayorDeEdad  (valores: verdadero/falso)             
+        // t) tallaCamiseta (valores: S, L, XL...)
+}
 }
 
